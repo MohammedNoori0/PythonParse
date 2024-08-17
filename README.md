@@ -1,1 +1,1 @@
-Program to help parsing logs.
+Program to help parse logs.
