@@ -1,7 +1,7 @@
 import re
 
 
-#writing the function of parsing 
+#writing the function 
 def parse_log(log_file):
     with open(log_file, 'r') as f:
         for line in f:
